@@ -9,4 +9,4 @@ What is that property? Inspect the data
 Replace the jokes with a new Async function
 
 We have accessed a random joke in the console
-the propert joke has the text we want
+the property joke has the text we want
