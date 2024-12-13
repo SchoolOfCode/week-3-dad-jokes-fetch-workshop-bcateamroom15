@@ -3,6 +3,7 @@
 
 async function getAndDisplayNewJoke() {
   const { joke } = await retrieveJoke();
+  // console.log({ joke });
   displayJoke(joke);
 }
 
